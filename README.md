@@ -26,7 +26,7 @@ GitHub: [GAYATHRI1006](https://github.com/GAYATHRI1006)
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/react-digital-clock.git
+git clone https://github.com/GAYATHRI1006/Digital_Clock_using_React.git
 ```
 
 ### 2. Install Dependencies
